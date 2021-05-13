@@ -10,3 +10,11 @@ Deployed at: _https://diabetespredictionkaggle.herokuapp.com/_
 
 
 
+_**----- WebApp -----**_<br />
+
+
+![WebApp](Screenshot1.png)
+
+![WebApp](Screenshot2.png)
+
+![WebApp](Screenshot3.png)
